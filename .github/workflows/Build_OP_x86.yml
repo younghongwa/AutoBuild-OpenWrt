@@ -8,7 +8,7 @@
 name: Build_x86
 
 on: 
-  release:
+  release: 
     types: [published]
 
   push:
